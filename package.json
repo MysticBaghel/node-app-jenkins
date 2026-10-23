@@ -1,0 +1,25 @@
+{
+  "name": "app-jenkins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MysticBaghel/node-app-jenkins.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MysticBaghel/node-app-jenkins/issues"
+  },
+  "homepage": "https://github.com/MysticBaghel/node-app-jenkins#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
